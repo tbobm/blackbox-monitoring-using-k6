@@ -40,7 +40,7 @@ export function uploadMedia (data) {
       'Content-Type': 'application/json',
     }
   };
-  // Define the payload for the upload
+  // define the payload for the upload
   const payload = {
     filetype: 'image/png',
     data: 'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wIAAgEBAgkAATQAAAABJRU5ErkJggg==',
