@@ -2,6 +2,8 @@
 
 Example repository to highlight black-box monitoring using k6.
 
+Medium article: https://medium.com/@tbobm/black-box-monitoring-at-meero-using-k6-50ff79800cbc
+
 ## Configuration
 
 This repository includes an [`envrc.dist`](./envrc.dist) file that mirrors the expected environment
